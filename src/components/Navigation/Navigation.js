@@ -6,12 +6,13 @@ const App = () => {
     <div className="container">
       <nav className="nav">
         <div className="nav">
-          <img
-            src="https://janhavipanwar.com/wp-content/uploads/2023/12/cropped-Logo-Janhavi-Panwar.png"
-            alt="logo"
-          />
+         
 
           <ul>
+            <li> <img
+            src="https://janhavipanwar.com/wp-content/uploads/2023/12/cropped-Logo-Janhavi-Panwar.png"
+            alt="logo"
+          /></li>
             <li>Home</li>
             <li>About</li>
             <li>Courses</li>
