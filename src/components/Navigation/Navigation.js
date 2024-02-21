@@ -23,8 +23,9 @@ const App = () => {
 
         <div>
           <form>
-            <div className="form"><input type="text" name="Search" placeholder="Search"  ></input>
-            <LuSearch className="logo"/>
+            <div className="form">
+            <input type="text" name="Search" placeholder="Search"  ></input>
+            <button className="input_btn"><LuSearch className="logo"/></button>
             </div>
             
           </form>

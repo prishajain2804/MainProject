@@ -2,6 +2,10 @@
   display: flex;
   justify-content: space-around;
 }
+.input_btn{
+  border:none;
+  border-left: 1px solid grey;
+}
 
 .nav ul {
   display: flex;
